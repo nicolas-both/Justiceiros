@@ -1,0 +1,1 @@
+unzip, then drag the .ttf file into C:\Mycomputer\WINDOWS\fonts
